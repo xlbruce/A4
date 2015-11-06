@@ -1,0 +1,65 @@
+*{
+	font-family: Arial;
+}
+.container{
+	width: 900px;
+	height: 600px;
+	margin:0 auto;
+	padding:0;
+
+}
+.cachorro{
+	width: 400px;
+	height: 250px;
+	background-color: #F0F0F0;
+	float:left;
+	margin:25px;
+	position: relative;
+}
+.titulo{
+	color:#fff;
+	width: 95%;
+	background-color:#FA4141;
+		font-size:20px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:5%;
+	font-family: Arial;
+	font-weight: bold;
+}
+.imagem{
+	width: 150px;
+	float:left;
+	margin:25px;
+}
+img{
+	border-radius:50px;
+}
+.texto{
+	margin-top: 20px;
+	float:left;
+	width: 150px;
+}
+.raca{
+	width: 100%;
+	float:left;
+	font-style: italic;
+}
+.descricao{
+	margin-top: 20px;
+	width: 100%;
+	float:left;
+}
+.localidade{
+	width: 95%;
+	background-color:#38C4F2;
+	float:left;
+	position: absolute;
+	bottom:0;
+	padding-top:10px;
+	padding-bottom: 10px;
+	text-align: right;
+	font-style: italic;
+	font-size: 12px;
+	padding-right: 5%;
+}
